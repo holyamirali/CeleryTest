@@ -1,7 +1,7 @@
 # CeleryTest
 Simple program storing current time on Redis  
 It uses Celery for pushing the task on tasks queue  
-Using Redis as database and message broker
+Using Redis as database  
 Time will be stored as value of 'crTime' key in redis 
 
 # how to run
