@@ -6,7 +6,7 @@ Time will be stored as value of 'crTime' key in redis
 
 # how to run
 Install **Redis** from redis.io  
-Install **Celery** and **Redis** python libaries using :
+Install **Celery** and **Redis** python libraries using :
 ```
 pip install celery
 pip install redis
